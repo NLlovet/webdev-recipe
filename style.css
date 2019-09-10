@@ -20,3 +20,19 @@ li{
     width: 80px;
     
 }
+
+
+iframe{
+    width: 500px;
+    height: 300px;
+}
+
+a:link
+{
+    color:green;
+    size: 30px;
+}
+
+a:visited{
+    color:black;
+}
